@@ -1,0 +1,144 @@
+{
+    "alimentos":
+        [
+            {
+                "nombre": "MANTEQUILLA DE MANI - VAINILLA",
+                "valor": 240,
+                "azucar": false,
+                "peso": 380,
+                "imagen": "mantequilla01",
+                "tipo": "ENVASADO"
+            },
+             {
+                "nombre": "MANTEQUILLA DE MANI - NATURAL",
+                "valor": 310,
+                "azucar": false,
+                "peso": 470,
+                "imagen": "mantequilla02",
+                "tipo": "ENVASADO"
+            },
+            {
+                "nombre": "DULCE DE LECHE",
+                "valor": 500,
+                "azucar": false,
+                "peso": 450,
+                "imagen": "dulcedeleche01",
+                "tipo": "ENVASADO"
+            },
+            {
+                "nombre": "CREMA DE AVELLANAS",
+                "valor": 950,
+                "azucar": true,
+                "peso": 170,
+                "imagen": "cremadeavellanas01",
+                "tipo": "ENVASADO"
+            },
+            {
+                "nombre": "GRANOLA",
+                "valor": 240,
+                "azucar": false,
+                "peso": 400,
+                "imagen": "cereal01",
+                "tipo": "SNACKS"
+            },
+            {
+                "nombre": "BARRAS DE CEREAL",
+                "valor": 82,
+                "azucar": false,
+                "peso": 42,
+                "imagen": "barracereal01",
+                "tipo": "SNACKS"
+            },
+             {
+                "nombre": "PAPAS FRITAS",
+                "valor": 120,
+                "sal": true,
+                "peso": 65,
+                "imagen": "papasligth01",
+                "tipo": "SNACKS"
+            },
+            {
+                "nombre": "CHIPS DE REMOLACHA",
+                "valor": 100,
+                "sal": true,
+                "peso": 80,
+                "imagen": "papas02",
+                "tipo": "SNACKS"
+            },
+            {
+                "nombre": "CHIPS DE BATATA",
+                "valor": 100,
+                "sal": true,
+                "peso": 80,
+                "imagen": "papas03",
+                "tipo": "SNACKS"
+            },
+            {
+                "nombre": "DISCOS DE ARROZ - SABOR JAMON",
+                "valor": 90,
+                "sal": true,
+                "peso": 80,
+                "imagen": "papas04",
+                "tipo": "SNACKS"
+            },
+            {
+                "nombre": "TE NEGRO",
+                "valor": 300,
+                "azucar": false,
+                "peso": 30,
+                "tipo": "INFUSIONES",
+                "imagen": "te01"
+            },
+            {
+                "nombre": "TE VERDE",
+                "valor": 30,
+                "azucar": false,
+                "peso": 30,
+                "tipo": "INFUSIONES",
+                "imagen": "te02"
+            },
+            {
+                "nombre": "CAFE CHAÑAR",
+                "valor": 250,
+                "azucar": false,
+                "peso": 125,
+                "tipo": "INFUSIONES",
+                "imagen": "cafe01"
+            },
+            {
+                "nombre": "YERBA ORGANICA",
+                "valor": 450,
+                "azucar": false,
+                "peso": 500,
+                "tipo": "INFUSIONES",
+                "imagen": "yerba01"
+            },
+            {
+                "nombre": "NUEZ MOSCADA",
+                "valor": 530,
+                "azucar": false,
+                "sal": true,
+                "peso": 60,
+                "tipo": "ESPECIAS",
+                "imagen": "especias01"
+            },
+            {
+                "nombre": "PIMIENTA BLANCA",
+                "valor": 490,
+                "azucar": false,
+                "sal": true,
+                "peso": 65,
+                "tipo": "ESPECIAS",
+                "imagen": "especias02"
+            },
+            {
+                "nombre": "JENGIBRE, AZUCAR Y SAL",
+                "valor": 340,
+                "azucar": false,
+                "sal": true,
+                "peso": 60,
+                "tipo": "ESPECIAS",
+                "imagen": "especias03"
+            }
+        ]
+}
